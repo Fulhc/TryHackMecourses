@@ -1,9 +1,9 @@
 # TryHackMecourses
 Thread of my TryHackMe advancement
 
-All courses are following the classic TryHackMe lines, using a [ParrotOS].(https://www.parrotsec.org/download/) VM through OpenVPN because i'm a cheap cunt and cont be bothered to pay stuff, running the THM "attackbox" as little as possible. [ issues and tools added will be written up here. ]
+All courses are following the classic TryHackMe lines, using a [ParrotOS](https://www.parrotsec.org/download/) VM through OpenVPN because i'm a cheap cunt and cont be bothered to pay stuff, running the THM "attackbox" as little as possible. **[ issues and tools added will be written up here. ]**
 
-**06/02/2023**
+## **06/02/2023**
 
 VM setup
 Enable access via openVPN
@@ -12,15 +12,15 @@ Enable access via openVPN
   - `sudo openvpn [profile].ovpn`
 
 
-**07/02/2023**
+## **07/02/2023**
 
-LeveL 1 :
+### LeveL 1 :
 - [Tutorial].(https://tryhackme.com/room/tutorial)
    - → Flag : `flag{connection_verified}`
      
 ------------------------------------------------------------------------------------------------------
 
-- [Intro to Offensive security].(https://tryhackme.com/room/introtooffensivesecurity)
+### - [Intro to Offensive security](https://tryhackme.com/room/introtooffensivesecurity)
    - → Task 1 Flag : `Offensive security`
 ---
    - → Task 2 Flag 1 : `BANK-HACKED`
@@ -31,8 +31,8 @@ LeveL 1 :
      
 ------------------------------------------------------------------------------------------------------
 
-- [Intro to Pentesting].(https://tryhackme.com/module/introduction-to-offensive-pentesting?ref=blog.tryhackme.com)
-    **Pentesting Fundamentals**
+### - [Intro to Pentesting](https://tryhackme.com/module/introduction-to-offensive-pentesting?ref=blog.tryhackme.com)
+    # **Pentesting Fundamentals**
        - → Task 1 Flag :
 ---
        - → Task 2 Flag 1 : `White Hat`
@@ -48,7 +48,7 @@ LeveL 1 :
 ---
        - → Task 5 Flag 1 : `THM{PENTEST_COMPLETE}`
 ---
-    **Principles of Security**
+    # **Principles of Security**
        - → Task 1 Flag :
 ---
        - → Task 2 Flag 1 : `Integrity`
