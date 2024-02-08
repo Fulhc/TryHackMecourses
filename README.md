@@ -32,35 +32,35 @@ Enable access via openVPN
 ------------------------------------------------------------------------------------------------------
 
 ### - [Intro to Pentesting](https://tryhackme.com/module/introduction-to-offensive-pentesting?ref=blog.tryhackme.com)
-    # **Pentesting Fundamentals**
-       - → Task 1 Flag :
+  # **Pentesting Fundamentals**
+   - → Task 1 Flag :
 ---
-       - → Task 2 Flag 1 : `White Hat`
-       - → Task 2 Flag 2 : `Black Hat`
-       - → Task 2 Flag 3 : `Rules of Engagement`
+   - → Task 2 Flag 1 : `White Hat`
+   - → Task 2 Flag 2 : `Black Hat`
+   - → Task 2 Flag 3 : `Rules of Engagement`
 ---
-       - → Task 3 Flag 1 : `Information Gathering`
-       - → Task 3 Flag 2 : `OSSTMM`
-       - → Task 3 Flag 3 : `OWASP`
+   - → Task 3 Flag 1 : `Information Gathering`
+   - → Task 3 Flag 2 : `OSSTMM`
+   - → Task 3 Flag 3 : `OWASP`
 ---
-       - → Task 4 Flag 1 : `Black Box`
-       - → Task 4 Flag 2 : `White Box`
+   - → Task 4 Flag 1 : `Black Box`
+   - → Task 4 Flag 2 : `White Box`
 ---
-       - → Task 5 Flag 1 : `THM{PENTEST_COMPLETE}`
+   - → Task 5 Flag 1 : `THM{PENTEST_COMPLETE}`
 ---
-    # **Principles of Security**
-       - → Task 1 Flag :
+  # **Principles of Security**
+   - → Task 1 Flag :
 ---
-       - → Task 2 Flag 1 : `Integrity`
-       - → Task 2 Flag 2 : `availability`
-       - → Task 2 Flag 3 : `confidentiality`
+   - → Task 2 Flag 1 : `Integrity`
+   - → Task 2 Flag 2 : `availability`
+   - → Task 2 Flag 3 : `confidentiality`
 ---
-       - → Task 3 Flag 1 : `Privileged Identity Management`
-       - → Task 3 Flag 1 : `Privileged Access Management`
-       - → Task 3 Flag 1 : `PAM`
-       - → Task 3 Flag 1 : `PIM`
+   - → Task 3 Flag 1 : `Privileged Identity Management`
+   - → Task 3 Flag 1 : `Privileged Access Management`
+   - → Task 3 Flag 1 : `PAM`
+   - → Task 3 Flag 1 : `PIM`
 ---
-       - → Task 4 Flag 1 : `The Bell-La Padula Model`
-       - → Task 4 Flag 2 : `The Biba Model`
-       - → Task 4 Flag 3 : `The Bell-La Padula Model`
-       - → Task 4 Flag 4 : `The Biba Model`
+   - → Task 4 Flag 1 : `The Bell-La Padula Model`
+   - → Task 4 Flag 2 : `The Biba Model`
+   - → Task 4 Flag 3 : `The Bell-La Padula Model`
+   - → Task 4 Flag 4 : `The Biba Model`
