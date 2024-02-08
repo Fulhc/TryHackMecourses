@@ -16,7 +16,7 @@ Enable access via openVPN
 ## **07/02/2023**
 
 ### Level 1 :
-- [Tutorial](https://tryhackme.com/room/tutorial)
+#### **[Tutorial](https://tryhackme.com/room/tutorial)**
    - → Flag : `flag{connection_verified}`
      
 ------------------------------------------------------------------------------------------------------
