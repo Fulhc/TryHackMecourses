@@ -17,7 +17,9 @@ Enable access via openVPN
 LeveL 1 :
 - [Tutorial].(https://tryhackme.com/room/tutorial)
    - → Flag : `flag{connection_verified}`
+     
 ------------------------------------------------------------------------------------------------------
+
 - [Intro to Offensive security].(https://tryhackme.com/room/introtooffensivesecurity)
    - → Task 1 Flag : `Offensive security`
 --
@@ -26,36 +28,38 @@ LeveL 1 :
    - → Task 2 Flag 3 :
 --
    - → Task 3 Flag 1 :
+     
 ------------------------------------------------------------------------------------------------------
+
 - [Intro to Pentesting].(https://tryhackme.com/module/introduction-to-offensive-pentesting?ref=blog.tryhackme.com)
     **Pentesting Fundamentals**
        - → Task 1 Flag :
---
+---
        - → Task 2 Flag 1 : `White Hat`
        - → Task 2 Flag 2 : `Black Hat`
        - → Task 2 Flag 3 : `Rules of Engagement`
---
+---
        - → Task 3 Flag 1 : `Information Gathering`
        - → Task 3 Flag 2 : `OSSTMM`
        - → Task 3 Flag 3 : `OWASP`
---
+---
        - → Task 4 Flag 1 : `Black Box`
        - → Task 4 Flag 2 : `White Box`
---
+---
        - → Task 5 Flag 1 : `THM{PENTEST_COMPLETE}`
---
+---
     **Principles of Security**
        - → Task 1 Flag :
---
+---
        - → Task 2 Flag 1 : `Integrity`
        - → Task 2 Flag 2 : `availability`
        - → Task 2 Flag 3 : `confidentiality`
---
+---
        - → Task 3 Flag 1 : `Privileged Identity Management`
        - → Task 3 Flag 1 : `Privileged Access Management`
        - → Task 3 Flag 1 : `PAM`
        - → Task 3 Flag 1 : `PIM`
---
+---
        - → Task 4 Flag 1 : `The Bell-La Padula Model`
        - → Task 4 Flag 2 : `The Biba Model`
        - → Task 4 Flag 3 : `The Bell-La Padula Model`
