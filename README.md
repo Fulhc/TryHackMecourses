@@ -65,3 +65,47 @@ Enable access via openVPN
    - → Task 4 Flag 2 : `The Biba Model`
    - → Task 4 Flag 3 : `The Bell-La Padula Model`
    - → Task 4 Flag 4 : `The Biba Model`
+---
+   - → Task 5 Flag 1 : `STRIDE`
+   - → Task 5 Flag 2 : `Incident Response`
+   - → Task 5 Flag 3 : `Tampering`
+   - → Task 5 Flag 4 : `Recovery`
+     
+------------------------------------------------------------------------------------------------------
+
+### - [Intro to Linux](https://tryhackme.com/module/linux-fundamentals?ref=blog.tryhackme.com)
+  #### **Linux Fundamentals Part 1**
+   - → Task 1 Flag :
+---
+   - → Task 2 Flag : `1991`
+---
+   - → Task 3 Flag : 
+---
+   - → Task 4 Flag 1 : `echo TryHackMe`
+   - → Task 4 Flag 2 : `tryhackme`
+---
+   - → Task 5 Flag 1 : `4`
+   - → Task 5 Flag 2 : `folder4`
+   - → Task 5 Flag 3 : `Hello World`
+   - → Task 5 Flag 4 : `/home/tryhackme/folder4`
+---
+   - → Task 6 Flag 1 : `THM{ACCESS}`
+   - → Task 6 Flag 2 : 
+---
+   - → Task 7 Flag 1 : `&`
+   - → Task 7 Flag 2 : `echo password123 > passwords`
+   - → Task 7 Flag 3 : `echo tryhackme >> passwords`
+   - → Task 7 Flag 4 :
+---
+   - → Task 8 Flag :
+---
+   - → Task 9 Flag 1 : 
+   - → Task 9 Flag 2 : 
+
+  #### **Linux Fundamentals Part 2** 
+   - → Task 1 Flag :
+---
+   - → Task 2 Flag :
+---
+   - → Task 3 Flag 1 :
+   - → Task 3 Flag 2 : `down`
