@@ -32,7 +32,7 @@ Enable access via openVPN
 ------------------------------------------------------------------------------------------------------
 
 ### - [Intro to Pentesting](https://tryhackme.com/module/introduction-to-offensive-pentesting?ref=blog.tryhackme.com)
-  # **Pentesting Fundamentals**
+  #### **Pentesting Fundamentals**
    - → Task 1 Flag :
 ---
    - → Task 2 Flag 1 : `White Hat`
@@ -48,7 +48,7 @@ Enable access via openVPN
 ---
    - → Task 5 Flag 1 : `THM{PENTEST_COMPLETE}`
 ---
-  # **Principles of Security**
+  #### **Principles of Security**
    - → Task 1 Flag :
 ---
    - → Task 2 Flag 1 : `Integrity`
