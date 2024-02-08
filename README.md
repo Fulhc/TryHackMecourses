@@ -1,7 +1,8 @@
 # TryHackMecourses
 Thread of my TryHackMe advancement
 
-All courses are following the classic TryHackMe lines, using a [ParrotOS](https://www.parrotsec.org/download/) VM through OpenVPN because i'm a cheap cunt and cont be bothered to pay stuff, running the THM "attackbox" as little as possible. **[ issues and tools added will be written up here. ]**
+All courses are following the classic TryHackMe lines, using a [ParrotOS](https://www.parrotsec.org/download/) VM through OpenVPN because i'm a cheap cunt and cant be bothered to pay stuff, running the THM "attackbox" as little as possible. 
+**[ issues and tools added will be written up here. ]**
 
 ## **06/02/2023**
 
